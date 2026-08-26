@@ -1,0 +1,7 @@
+interface:
+  display_name: "CG-PRODUCT｜呈冠產品資料主檔"
+  short_description: "管理呈冠產品名稱、規格、標示、食安資料與確認狀態"
+  default_prompt: "Use $cg-product to verify and apply the confirmed Cheng Good product master data."
+
+policy:
+  allow_implicit_invocation: true
