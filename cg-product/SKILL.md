@@ -18,13 +18,14 @@ Use this skill as the single source of truth for Cheng Good Food product facts.
 
 ## Non-negotiable invariants
 
-- Formal name for both `冰火山` and `單顆30入` is `溏心蛋`.
+- Formal name for `冰火山` is `冰火山溏心蛋`; `冰火山` is its business nickname.
+- Formal name for `單顆30入` is `溏心蛋`; `單顆30入` is its business/packaging nickname.
 - Never use `溏心溫泉蛋` as a product name.
 - `溏心蛋` and `帶殼溫泉蛋` are different products.
 - Company and factory food-business registration numbers must be shown separately.
 - All SKUs/product codes remain suspended until confirmed.
 - H-category CAS, SGS, testing, traceability, and recall details remain unconfirmed unless the user supplies a newer approved source.
-- J-category photo, label, logo, and document-governance details remain unconfirmed.
+- User-approved label photos may be published externally and used in proposals, catalogs, or sales materials. Other J-category product photos, logo, and document-governance details remain unconfirmed unless explicitly approved.
 
 ## Updating the master
 
