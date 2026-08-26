@@ -1,0 +1,7 @@
+interface:
+  display_name: "CG-CUSTOMER｜客戶主檔"
+  short_description: "建立與查核可追溯、具狀態的客戶正式資料"
+  default_prompt: "Use $cg-customer to normalize and verify customer records with source, status, and privacy controls."
+
+policy:
+  allow_implicit_invocation: true

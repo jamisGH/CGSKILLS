@@ -1,0 +1,7 @@
+interface:
+  display_name: "CG-PROPOSAL｜合作提案"
+  short_description: "把已確認需求與 FIT 整理成可審核提案內容"
+  default_prompt: "Use $cg-proposal to turn confirmed needs, FIT results, and product facts into a reviewable proposal package."
+
+policy:
+  allow_implicit_invocation: true

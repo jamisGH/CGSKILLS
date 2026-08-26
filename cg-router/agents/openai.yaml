@@ -1,0 +1,7 @@
+interface:
+  display_name: "CG-ROUTER｜Skill 路由"
+  short_description: "依意圖與資料狀態協調最小充分的呈冠 Skill"
+  default_prompt: "Use $cg-router to select and sequence the minimum Cheng Guan skills needed for this request."
+
+policy:
+  allow_implicit_invocation: true

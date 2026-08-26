@@ -1,0 +1,7 @@
+interface:
+  display_name: "CG-FB-FIT｜適配評估"
+  short_description: "評估品牌、通路與客戶的呈冠合作適配性"
+  default_prompt: "Use $cg-fb-fit to assess a target's fit with confirmed Cheng Guan products and evidence."
+
+policy:
+  allow_implicit_invocation: true

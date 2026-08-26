@@ -1,0 +1,7 @@
+interface:
+  display_name: "CG-QA｜最終驗收"
+  short_description: "驗收跨 Skill 交付並提供可追溯的發布判定"
+  default_prompt: "Use $cg-qa to validate this Cheng Guan deliverable and return PASS, FAIL, or BLOCKED with evidence."
+
+policy:
+  allow_implicit_invocation: true
