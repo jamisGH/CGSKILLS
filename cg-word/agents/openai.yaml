@@ -1,4 +1,4 @@
 interface:
   display_name: "CG-WORD"
-  short_description: "Create Cheng Word and PDF files with Final QA"
-  default_prompt: "Use $cg-word (DOC) to create and validate the final Word and PDF files."
+  short_description: "Create V2.0.0 Cheng Word and matching PDF files with Final QA"
+  default_prompt: "Use $cg-word (DOC) to create and validate matching V2.0.0 final Word and PDF files."
